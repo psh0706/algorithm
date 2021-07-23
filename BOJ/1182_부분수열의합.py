@@ -14,7 +14,7 @@ for i in range(1 << N):
         if i & (1 << j):
             sum += arr[j]
 
-    if sum == 0:
+    if sum == S:
         isS += 1
 
 print(isS)
