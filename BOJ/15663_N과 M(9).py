@@ -1,6 +1,7 @@
 def perm(depth, result):
     if depth == M:
         print(result)
+        return
 
     for i in string_dict.keys():
         if string_dict[i] == 0:
