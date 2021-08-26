@@ -3,7 +3,7 @@ def comb(depth, start, result):
         print(result)
         return
 
-    for i in range(start,len(string_list)):
+    for i in range(start, len(string_list)):
         if cnt_list[i] == 0:
             continue
         else:
