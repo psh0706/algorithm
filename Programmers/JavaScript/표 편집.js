@@ -79,5 +79,5 @@ function solution(n, k, cmd) {
 }
 
 /*
-* double list 문제를 javascript 로 구현해 보았다.
+* double linked list 문제를 javascript 로 구현해 보았다.
 */
